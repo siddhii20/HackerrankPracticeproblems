@@ -1,0 +1,4 @@
+select name
+from employee
+where salary>2000 And months<10
+order by employee_id;
